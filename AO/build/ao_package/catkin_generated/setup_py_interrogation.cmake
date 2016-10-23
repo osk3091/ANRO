@@ -1,0 +1,6 @@
+set(ao_package_SETUP_PY_VERSION "0.0.0")
+set(ao_package_SETUP_PY_SCRIPTS "")
+set(ao_package_SETUP_PY_PACKAGES "ao_package")
+set(ao_package_SETUP_PY_PACKAGE_DIRS "src/ao_package")
+set(ao_package_SETUP_PY_MODULES "")
+set(ao_package_SETUP_PY_MODULE_DIRS "")

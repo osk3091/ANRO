@@ -1,0 +1,8 @@
+prefix=/home/osk/AO/devel
+
+Name: AO_package
+Description: Description of AO_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/osk/AO/devel/lib 
+Requires: 
